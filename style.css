@@ -63,7 +63,8 @@ a:focus {
 
 hr {
     height: 1px;
-    color: var(--line-color);
+    background-color: var(--line-color);
+    border: none;
 }
 
 /* card */
