@@ -47,7 +47,8 @@ Users should be able to:
 
 I used this challenge as an opportunity to continue practicing css and accessibility. It was more challenging than I expected. For accessibility, I did my best, but I have questions about best-practices:
 - should I have added an aria-label to the image link to view the product? If I do that, the screenreader ignores the image alt text. I don't know which is less confusing.
-- I added a hidden h1 to the page as there wasn't one. I couldn't find a definitive answer whether this was a good thing to do or not.
+- I added a hidden h1 to the page as there wasn't one. I couldn't find a definitive answer whether this was a good thing to do or not.  
+
 Other questions:
 - I also want to know if there's a better way to get the time limit text to the right side other than adding a left margin to it.
 
