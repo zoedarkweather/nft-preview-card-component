@@ -84,6 +84,7 @@ hr {
 
 .product-img-container {
     position: relative;
+    max-height: 18.3em; /*bc otherwise there's a gap that shows bg color*/
 }
 
 .product-img-container:hover,
