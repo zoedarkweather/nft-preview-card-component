@@ -92,7 +92,7 @@ hr {
 .product-img-container:hover,
 .product-img-container:focus {  
     background-color: var(--cyan);
-    border-radius: 1em;
+    border-radius: 0.5em;
 }
 
 .img-link:focus {
