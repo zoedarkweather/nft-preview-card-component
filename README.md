@@ -51,6 +51,7 @@ I used this challenge as an opportunity to continue practicing css and accessibi
 
 Other questions:
 - I also want to know if there's a better way to get the time limit text to the right side other than adding a left margin to it.
+- Am I doing the image hover wrong? I ended up having to set a max-height on the container div and I didn't like doing that, but there was a gap at the bottom showing the green background and it looked weird otherwise.
 
 ### Continued development
 
