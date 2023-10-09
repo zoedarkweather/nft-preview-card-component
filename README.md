@@ -46,16 +46,15 @@ Users should be able to:
 ### What I learned
 
 I used this challenge as an opportunity to continue practicing css and accessibility. It was more challenging than I expected. For accessibility, I did my best, but I have questions about best-practices:
-- should I have added an aria-label to the image link to view the product? If I do that, the screenreader ignores the image alt text. I don't know which is less confusing.
+- I added an aria-label to the image link to view the product. However, this causes the screenreader to ignore the image alt text. I wasn't entirely sure which was the better option, but I went with clarifying the link. What is the best way to handle an image link?
 - I added a hidden h1 to the page as there wasn't one. I couldn't find a definitive answer whether this was a good thing to do or not.  
 
 Other questions:
-- I also want to know if there's a better way to get the time limit text to the right side other than adding a left margin to it.
-- Am I doing the image hover wrong? I ended up having to set a max-height on the container div and I didn't like doing that, but there was a gap at the bottom showing the green background and it looked weird otherwise.
+- I'm not sure I did the image hover correctly. I ended up having to set a max-height on the container div and I didn't like doing that, but there was a gap at the bottom showing the green background otherwise.
 
 ### Continued development
 
-Continue practicing CSS and making my pages more accessible.
+Continue practicing and learning.
 
 ## Author
 

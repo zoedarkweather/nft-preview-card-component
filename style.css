@@ -80,7 +80,6 @@ hr {
 
 .product-img {
     width: 100%;
-    object-fit: cover;
     border-radius: 0.5em;
 }
 
@@ -116,7 +115,7 @@ hr {
     z-index: -1;    
 }
 
-.container {
+.flex-container {
     display: flex;
     align-items: center;
 }
