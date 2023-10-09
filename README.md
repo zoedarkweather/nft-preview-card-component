@@ -49,9 +49,6 @@ I used this challenge as an opportunity to continue practicing css and accessibi
 - I added an aria-label to the image link to view the product. However, this causes the screenreader to ignore the image alt text. I wasn't entirely sure which was the better option, but I went with clarifying the link. What is the best way to handle an image link?
 - I added a hidden h1 to the page as there wasn't one. I couldn't find a definitive answer whether this was a good thing to do or not.  
 
-Other questions:
-- I'm not sure I did the image hover correctly. I ended up having to set a max-height on the container div and I didn't like doing that, but there was a gap at the bottom showing the green background otherwise.
-
 ### Continued development
 
 Continue practicing and learning.
