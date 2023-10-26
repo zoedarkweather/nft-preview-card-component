@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -12,9 +12,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-
 
 ## Overview
 
@@ -45,9 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-I used this challenge as an opportunity to continue practicing css and accessibility. It was more challenging than I expected. For accessibility, I did my best, but I have questions about best-practices:
-- I added an aria-label to the image link to view the product. However, this causes the screenreader to ignore the image alt text. I wasn't entirely sure which was the better option, but I went with clarifying the link. What is the best way to handle an image link?
-- I added a hidden h1 to the page as there wasn't one. I couldn't find a definitive answer whether this was a good thing to do or not.  
+I used this challenge as an opportunity to continue practicing css and accessibility. It was more challenging than I expected, especially the image-link hover state.
 
 ### Continued development
 
@@ -56,4 +52,4 @@ Continue practicing and learning.
 ## Author
 
 - Github - [Jennifer Souza](https://github.com/zoedarkweather)
-- Frontend Mentor - [@zoedarkweather](https://www.frontendmentor.io/profile/zoedarkweather)
+- Frontend Mentor - [@zoedarkweather](https://www.frontendmentor.io/profile/zoedarkweather)  
